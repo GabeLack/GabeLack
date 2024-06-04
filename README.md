@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Learning: AI/deep learning applied through Python.
-- Personal goal: An AI audio assistant for d&d.
+- Personal goal: An AI (audio) assistant for d&d.
 
 <!--
 **GabeLack/GabeLack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
